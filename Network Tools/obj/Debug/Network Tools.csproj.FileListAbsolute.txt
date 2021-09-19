@@ -1,0 +1,7 @@
+C:\Users\JackA\source\repos\Network Tools\Network Tools\bin\Debug\Network Tools.exe.config
+C:\Users\JackA\source\repos\Network Tools\Network Tools\bin\Debug\Network Tools.exe
+C:\Users\JackA\source\repos\Network Tools\Network Tools\bin\Debug\Network Tools.pdb
+C:\Users\JackA\source\repos\Network Tools\Network Tools\obj\Debug\Network Tools.csproj.AssemblyReference.cache
+C:\Users\JackA\source\repos\Network Tools\Network Tools\obj\Debug\Network Tools.csproj.CoreCompileInputs.cache
+C:\Users\JackA\source\repos\Network Tools\Network Tools\obj\Debug\Network Tools.exe
+C:\Users\JackA\source\repos\Network Tools\Network Tools\obj\Debug\Network Tools.pdb
